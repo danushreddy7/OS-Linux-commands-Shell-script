@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/53a0a527-1fb8-4501-b632-a98eb2b366ec)![image](https://github.com/user-attachments/assets/46e5356f-150e-47eb-8d77-7c99ac91f383)# OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
+## REWG NO: 212223040029
+# NAME: T DANUSH REDDY
 # AIM:
 To practice Linux Commands and Shell Scripting
 
