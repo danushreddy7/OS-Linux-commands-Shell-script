@@ -1,7 +1,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## REWG NO: 212223040029
+## REG NO: 212223040029
 # NAME: T DANUSH REDDY
 # AIM:
 To practice Linux Commands and Shell Scripting
